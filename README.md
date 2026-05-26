@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SorcererGG
-- 👀 I’m interested in Malicious files, Ransomwares, C++c Python and way more.
+- 👀 I’m interested in Malicious files, Ransomwares, C++, C, Python, space and way more.
 - 🌱 I’m currently learning C++, Python, HTML and some of java.
 - 📫 How to reach me:
